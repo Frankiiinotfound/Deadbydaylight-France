@@ -1,6 +1,6 @@
 {
 	"Name": "DeadByDaylight France",
-	"Version": 1728738716,
+	"Version": 1728742060,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -271,8 +271,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
 				5,
 				6
 			],
