@@ -1,6 +1,6 @@
 {
 	"Name": "DeadByDaylight France",
-	"Version": 1742759643,
+	"Version": 1742825170,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -84,6 +84,7 @@
 				"151",
 				"152",
 				"155",
+				"162",
 				"163",
 				"244",
 				"167",
@@ -313,7 +314,6 @@
 				]
 			],
 			"SurvivorIndvPerkBans": [
-				"34",
 				"71"
 			],
 			"SurvivorComboPerkBans": [
@@ -1359,7 +1359,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"47"
 			],
 			"BalanceTiers": [
 				0
@@ -1641,9 +1641,8 @@
 			],
 			"SurvivorIndvPerkBans": [
 				"34",
-				"36",
-				"121",
-				"254"
+				"38",
+				"121"
 			],
 			"SurvivorComboPerkBans": [
 				[
@@ -1666,7 +1665,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				14
+				14,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1700,8 +1700,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				4,
+				5
 			],
 			"KillerOfferings": [
 				5
