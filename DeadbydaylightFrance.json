@@ -1,6 +1,6 @@
 {
 	"Name": "DeadByDaylight France",
-	"Version": 1745658456,
+	"Version": 1747407073,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -27,7 +27,9 @@
 				"33",
 				"248",
 				"40",
+				"279",
 				"43",
+				"280",
 				"267",
 				"46",
 				"49",
@@ -52,6 +54,7 @@
 				"84",
 				"86",
 				"88",
+				"281",
 				"89",
 				"90",
 				"96",
@@ -1912,7 +1915,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0
