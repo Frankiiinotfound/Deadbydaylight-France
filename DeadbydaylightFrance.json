@@ -1,6 +1,6 @@
 {
 	"Name": "DeadByDaylight France",
-	"Version": 1756116635,
+	"Version": 1756140830,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Each loadout has to contain : 1x Bloodied Blueprint / 1x Annotated Blueprint / 2x Vigo's Shroud\n\nWhen Team A picks a killer, Team B has to choose the map if different choices are proposed on the balancing",
 	"Tiers": [
@@ -2897,7 +2897,7 @@
 		},
 		{
 			"Name": "The Lich",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors are allowed to pick items from Vecna's Chests",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -3178,7 +3178,7 @@
 		},
 		{
 			"Name": "The Animatronic",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors can use gates of the Animatronic (cameras and travel through them)",
 			"IsDisabled": false,
 			"Map": [
 				"0",
