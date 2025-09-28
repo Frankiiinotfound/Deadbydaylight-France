@@ -1,6 +1,6 @@
 {
 	"Name": "DeadByDaylight France",
-	"Version": 1759005172,
+	"Version": 1759088266,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Each loadout has to contain : 1x Bloodied Blueprint / 1x Annotated Blueprint / 2x Vigo's Shroud\n\nWhen Team A picks a killer, Team B has to choose the map if different choices are proposed on the balancing",
 	"Tiers": [
@@ -190,7 +190,7 @@
 		{
 			"Name": "The Trapper",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"0",
 				"43"
@@ -676,6 +676,7 @@
 				"26",
 				"246",
 				"27",
+				"286",
 				"288",
 				"30",
 				"34",
@@ -684,6 +685,7 @@
 				"39",
 				"44",
 				"261",
+				"50",
 				"54",
 				"57",
 				"289",
@@ -742,8 +744,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
