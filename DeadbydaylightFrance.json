@@ -1,6 +1,6 @@
 {
 	"Name": "DeadByDaylight France",
-	"Version": 1759177378,
+	"Version": 1761068554,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Each loadout has to contain : 1x Bloodied Blueprint / 1x Annotated Blueprint / 2x Vigo's Shroud\n\nWhen Team A picks a killer, Team B has to choose the map if different choices are proposed on the balancing",
 	"Tiers": [
@@ -2363,7 +2363,12 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				555,
+				557,
+				558,
+				554
+			],
 			"ItemWhitelist": [
 				0,
 				5
